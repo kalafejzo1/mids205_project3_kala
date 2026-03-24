@@ -2,8 +2,8 @@
 
 ## Team Members
 - Kala Fejzo
-- [Teammate Name]
-- [Teammate Name]
+- Prince Hossain
+- Chul Park
 
 ## Project Overview
 This project uses the SNAP Facebook Social Circles dataset to model a social network in Neo4j and demonstrate how graph databases can support community detection, influencer identification, and engagement analysis for a social media platform.
