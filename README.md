@@ -60,7 +60,7 @@ This graph structure allows us to analyze both social structure and engagement b
 We use Neo4j Graph Data Science algorithms including:
 - **Louvain Modularity** for community detection
 - **Label Propagation** as an alternative community detection method
-- **PageRank** or **Degree Centrality** to identify influential users within communities
+- **Degree Centrality** to identify influential users within communities
 
 These algorithms help demonstrate how graph methods can support recommendation systems, user segmentation, and influencer detection.
 
