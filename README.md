@@ -58,9 +58,9 @@ This graph structure allows us to analyze both social structure and engagement b
 
 ## Graph Data Science Algorithms
 We use Neo4j Graph Data Science algorithms including:
-- **Louvain Modularity** for community detection
-- **Label Propagation** as an alternative community detection method
-- **Degree Centrality** to identify influential users within communities
+- **Betweennes Centrality** identify users who act as bridges connecting different parts of the network
+- **Shortest Path** measure how quickly information can spread between users
+- **Degree Centrality** identify the most connected and socially active users
 
 These algorithms help demonstrate how graph methods can support recommendation systems, user segmentation, and influencer detection.
 
